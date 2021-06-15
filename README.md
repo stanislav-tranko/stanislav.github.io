@@ -1,2 +1,2 @@
-# stanislav.github.io
+# Stanislav Tranko
 # Мой первый сайт
