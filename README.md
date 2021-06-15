@@ -1,2 +1,2 @@
-# stanislav.github.i
+# stanislav.github.io
 # Мой первый сайт
